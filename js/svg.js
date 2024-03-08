@@ -2,7 +2,7 @@ const svg = {
     
     initiate: function () {
         
-        fetch('svg/icons.json')
+        fetch('js/resources/icons.json')
             .then(response => response.json())
             .then(iconMappings => {
                 
