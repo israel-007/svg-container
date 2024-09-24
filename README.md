@@ -1,6 +1,6 @@
 # svg-container
 
-Never wrestle with messy, lengthy SVG codes again! This project puts the power in your hands without the hassle. Simply select your desired SVG icon, and voilà! No more copying and pasting long, tangled codes. Let us handle the heavy lifting while you enjoy clean, efficient rendering right from page load. It's the antidote to cluttered code chaos!
+Never wrestle with messy, lengthy SVG codes again! This project puts the power in your hands without the hassle. Select your desired SVG icon, and voilà! No more copying and pasting long, tangled codes. Let us handle the heavy lifting while you enjoy clean, efficient rendering from page load. It's the antidote to cluttered code chaos!
 
 ## Installation
 
@@ -20,7 +20,7 @@ Never wrestle with messy, lengthy SVG codes again! This project puts the power i
 
 ## Usage
 
-Once the files has been linked you can proceed to make use of the icons like:
+Once the files have been linked you can proceed to make use of the icons like:
 
 ```html
 
@@ -31,15 +31,15 @@ Once the files has been linked you can proceed to make use of the icons like:
 <i svg="calendar-edit" svg-width="25px" svg-class="svg-white" ></i>
 
 ```
-**svg=""** should contain the name of the icon you want to use
+`svg=""` should contain the name of the icon you want to use
 
-**svg-width=""** should contain the with you want to set your icon at
+`svg-width=""` should contain the with you want to set your icon at
 
-**svg-class=""** should contains all class names you want to apply to the svg
+`svg-class=""` should contain all class names you want to apply to the svg
 
 ## Contributions
 
-As this project contins few svg icons located at **js/resources/icons.json**, contributions to this project are welcomed! Feel free to fork the repository, make improvements, and submit pull requests.
+As this project contins few svg icons located at `js/resources/icons.json`, contributions to this project are welcomed! Feel free to fork the repository, make improvements, and submit pull requests.
 
 ##Dependencies
 
